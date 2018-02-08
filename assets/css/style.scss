@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 body {
-    color:  #8B4513;
+    header_wrap {
+        project_title_new {
+            color:  #8B4513;
+        }
+    }
 }
