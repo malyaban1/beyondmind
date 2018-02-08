@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-#extra {
-  font-size : 10px;
-  background = #8B4513;
+body {
+  extra {
+    font-size : 10px;
+    background = #8B4513;
+  }
 }
