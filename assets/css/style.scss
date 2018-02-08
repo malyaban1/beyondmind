@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-header_wrap {
-  font-size : 5pt;
+extra {
+  font-size = 5pt;
+  background = #8B4513;
 }
